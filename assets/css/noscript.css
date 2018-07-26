@@ -7,7 +7,7 @@
 /* Basic */
 
 	body:after {
-		display: none;
+		display: inline;
 	}
 
 /* Main */
